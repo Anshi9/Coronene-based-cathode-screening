@@ -1,0 +1,1 @@
+This repository contains the code for training Gradient Boosting Regression (GBR) model for predicting the voltage of coronene-based organic cathodes in combination with metal anodes and a diverse range of electrolyte salts. 
